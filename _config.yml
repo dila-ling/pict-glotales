@@ -1,0 +1,45 @@
+title: PICT-Glotales
+description: PICT-2016-1038
+baseurl: "/pict-glotales" # the subpath of your site, e.g. /blog
+url: "https://dila-caicyt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: pict-glotales # the GitHub repo name for your project
+github_username: dila-caicyt
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: caicyt
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: white
+
+# Build settings
+markdown: kramdown
+
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+
+navigation:
+  - {name: 'Proyecto', link: '/proyecto'}
+  - {name: 'Corpus', link: '/corpus'}
+  - {name: 'Resultados', link: '/resultados'}
+  - {name: 'Mapa lexical', link: '/mapa'}
+
+collections:
+  fuentes:
+     output: true
+  lex:
+     output: true
+
+defaults:
+  - scope:
+      path: "assets/audio"
+    values:
+      wav: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
