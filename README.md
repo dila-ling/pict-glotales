@@ -1,3 +1,3 @@
 # pict-glotales
 
-https://dila-caicyt.gitlab.io/pict-glotales/
+https://dila-caicyt.github.io/pict-glotales/

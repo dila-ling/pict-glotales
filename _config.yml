@@ -23,7 +23,6 @@ markdown: kramdown
 #   - jekyll-seo-tag
 
 navigation:
-  - {name: 'Proyecto', link: '/proyecto'}
   - {name: 'Corpus', link: '/corpus'}
   - {name: 'Resultados', link: '/resultados'}
   - {name: 'Mapa lexical', link: '/mapa'}

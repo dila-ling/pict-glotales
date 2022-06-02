@@ -15,29 +15,28 @@ BUCCA_A_02A-chorote  |chorote | [audio][BUCCA-cho] y [transcripcion][BUCCA-cho-t
 cinta01_A            |chorote | [audio][pacor-1a] y [transcripcion][pacor-1a-tr]
 cinta01_B            |chorote | [audio][pacor-1b]  y [transcripcion][pacor-1b-tr]
 CRT001R007I002       |chorote | [audio][ag-cho] y [transcripcion][ag-cho-tr]
-C&G2007              |chorote | artículo
+C&G2007              |nivacle | artículo
 [D1999][D1999]       |chorote | diccionario
-N1984                |chorote, nivale, wichi | diccionario?
-C2014b               |chorote | diccionario
+N1984                |chorote, nivacle, wichi | fonología proto-mataguaya
+C2014b               |chorote | tesis
 PPcuaderno           |chorote | notas de campo
 B1969                |chorote | transcripcion
 MCA001R024I001       |maka    | [audio][gerz-mak-241] y [transcripcion][gerz-mak-241-tr]
 MCA001R024I002       |maka    | [audio][gerz-mak-242] y [transcripcion][gerz-mak-242-tr]
 MCA001R016I001       |maka    | [audio][gerz-mak-161] y [transcripcion][gerz-mak-161-tr]
 MCA001R016I002       |maka    | [audio][gerz-mak-162] y [transcripcion][gerz-mak-162-tr]
- [G1994][G1994]      |maka    | diccionario
+ [G1994][G1994]      |maka    | gramática
  [G1999][G1999]      |maka    | diccionario
- N1999               |maka    | diccionario
  T2015               |maka    | tesis
 BUCCA_A_02A-nivacle  |nivacle | [audio][BUCCA-niv] y [transcripcion][BUCCA-niv-tr]
  B1969               |nivacle | transcripcion
- G2015               |nivacle | diccionario
+ G2015               |nivacle | tesis
  [F2014][F2014]      |nivacle | diccionario
  NDNAb               |nivacle | diccionario
  [S1996][S1996]      |nivacle | diccionario
 BUCCA_A_02A-wichi    |wichi   | [audio][BUCCA-wi] y [transcripcion][BUCCA-wi-tr]
- [Cl2016][Cl2016]    |wichi   | diccionario
- N1984               |wichi   | diccionario
+ [Cl2016][Cl2016]    |wichi   | vocabulario
+ 
 
 
 # Corpus de audio
@@ -101,28 +100,26 @@ Diccionarios, léxicos, tesis, etc.
 
 referencia|file                                              | lengua  |  comentario
 ----------|--------------------------------------------------|---------|---------------
-D1999     |[DraysonDiccionarioChoroteCastellano.pdf][D1999]  | chorote |            |
- C2014b   |                                                  |chorote | diccionario |
- C&G2007  |                                                  |chorote  | artículo|
+D1999     |[DraysonDiccionarioChoroteCastellano.pdf][D1999]  |chorote | diccionario |
+ C2014b   |                                                  |chorote | tesis |
+ C&G2007  |  [C&G2007_InternalReconstructionChulupi ](https://www.researchgate.net/publication/233581432_Internal_reconstruction_in_Chulupi_Nivacle)         |nivacle  | artículo|
   G1978   | [Gerzenstein_1978-tomo1.pdf][G1978-tomo1]         | chorote |          | 
   G1978   | [Gerzenstein_1978-tomo2.pdf][G1978-tomo2]         | chorote |          | 
 G1983     | [Gerzenstein_1983_LenguaChoroteVariedad2_1.pdf][G1983-1] | chorote |   | 
 G1983     | [Gerzenstein_1983_LenguaChoroteVariedad2_2.pdf][G1983-2] | chorote |   | 
- N1984    |                                                  |chorote, nivale, wichi | diccionario? |
+ N1984    |                                                  |chorote, nivacle, wichi | fonología proto-mataguaya|
 PPcuaderno|                                                  |chorote | notas de campo |
- G1994    |                                                   |maka     | diccionario|
-G1999     | [Gerzenstein_1999_DiccionarioMaka.pdf][G1999]     | maka    | diccionario| 
- N1999    |                                                   |maka     | diccionario|
+ G1994    |                                                   |maka     | gramática|
+G1999     | [Gerzenstein_1999_DiccionarioMaka.pdf][G1999]     |maka    | diccionario| 
  T2015    |                                                   |maka     | tesis      |
  F2014    | [Fabre-DiccionarioNivacle.pdf][F2014]             | nivacle | diccionario|
-G2015     |                                                   | nivacle | diccionario|
-          | [Hunt-Chunupi_vocabulary-ocr.pdf][Hunt]           | nivacle |            | mecanografiado
+G2015     | [Gutiérrez_2015](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0166445)                                               | nivacle | tesis|
+          | [Hunt-Chunupi_vocabulary-ocr.pdf][Hunt]           | nivacle | vocabulario           | mecanografiado
           | [Isaak-Nivacle_SprachHeft.pdf][Isaak]             | nivacle | léxico     | manuscrito
  NDNAb    |                                                   |nivacle  | diccionario| 
- S1996    | [Seelwische-nivacle-2016.pdf][S1996]              | nivacle |            |
- Cl2016   | [Vocabulario_weenhayek.pdf][Cl2016]               | wichi   |            | 
- N1984    |                                                   | wichi   | diccionario|
- N2014    |                                                   | wichi   | diccionario|
+ S1996    | [Seelwische-nivacle-2016.pdf][S1996]              | nivacle | diccionario          |
+ Cl2016   | [Vocabulario_weenhayek.pdf][Cl2016]               | wichi   |vocabulario                                                    
+ N2014    |                                                   | wichi   | tesis|
 
 [D1999]:https://drive.google.com/open?id=17UFH0M_YTEpr78v5iDSx12fj3aXCgsF4
 [G1978-tomo1]: https://drive.google.com/open?id=1KDT0K5omLv87G1I6PQ0SyITXs6m-IXHH
