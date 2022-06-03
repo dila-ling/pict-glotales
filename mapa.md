@@ -4,6 +4,8 @@ title: Mapa lexical
 permalink: /mapa/
 ---
 
+<!-- Modificar en base a datos de esta spreadsheet https://docs.google.com/spreadsheets/d/1q_HUGbLVsyo6P6ue9J26GH4UBmwz1G8b/edit#gid=2078261815 -->
+
 # Esto es una prueba de visualización
 
 En este mapa se puede visualizar dónde fueron tomadas las muestras. Haga click sobre los marcadores para obtener más información. 

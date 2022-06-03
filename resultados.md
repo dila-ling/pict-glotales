@@ -4,6 +4,8 @@ title: Resultados
 permalink: /resultados/
 ---
 
+<!-- Agregar cuadro de mataguayas comparadas actualizado por AG-->
+
 <audio id="myAudio">
   <source src="{{ site.baseurl }}/assets/audio/cinta01_A-xlase.wav" type="audio/wav">
   Your browser does not support the audio element.

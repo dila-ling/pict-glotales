@@ -6,6 +6,7 @@ permalink: /corpus/
 
 Esta sección sintetiza las características básicas del corpus usado para el proyecto. 
 
+<!-- Agregar referencias bibliograficas y cuadritos de cantidad de palabras por fuente y por idioma -->
 
 # Documentos
 
