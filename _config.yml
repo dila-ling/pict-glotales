@@ -25,7 +25,7 @@ markdown: kramdown
 navigation:
   - {name: 'Corpus', link: '/corpus'}
   - {name: 'Resultados', link: '/resultados'}
-  - {name: 'Mapa lexical', link: '/mapa'}
+  - {name: 'Mapa de fuentes', link: '/mapa'}
 
 collections:
   fuentes:
