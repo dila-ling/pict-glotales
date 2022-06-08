@@ -4,42 +4,59 @@ title: Corpus
 permalink: /corpus/
 ---
 
-Esta sección sintetiza las características básicas del corpus usado para el proyecto. 
+Esta sección sintetiza las características básicas del corpus usado para el proyecto. Haga click en las flechas para desplegar más información acerca de las fuentes usadas.
 <!-- Agregar referencias bibliograficas y cuadritos de cantidad de palabras por fuente y por idioma -->
 
 <div class="py-1 mb-0 prose">
   <a class="no-underline" data-toggle="collapse" href="#audio" role="button" aria-expanded="false" aria-controls="collapseExample"><h1>Audio <span class="caret"/></h1></a>
   <div class="collapse" id="audio">
-    <a class="no-underline" data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Chorote <span class="caret"/></h4></a>
-      <div class="collapse" id="collapse1">
-        <ul>
-          <li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li>
-          <li>Gerzenstein, Ana. (1968) "Palabras en Chorote". Texas: Ailla. Recuperado de <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A125066" target="_blank">https://ailla.utexas.org/es/islandora/object/ailla%3A125066</a></li>
-          <li>Pacor, Paola. (2005). Trabajo de campo  lengua chorote.</li>
-        </ul>
+    <div class="py-1 mb-3">
+      <figure>
+        <img src="{{site.baseurl}}/assets/plots/corpus_dur_by_lang_audio.png" alt="plot corpus audio"/>
+        <figcaption style="font-size: 13px;">Duración en minutos de las muestras de audio para cada lengua según fuente.</figcaption>
+      </figure>
     </div>
-    <a class="no-underline" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Maká <span class="caret"/></h4></a>
-      <div class="collapse" id="collapse2">
-        <ul>
-        <li>Gerzenstein, Ana. (1985). Curso de idiomas en curso. Texas, AILLA. Recuperado de <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A125048" target="_blank">https://ailla.utexas.org/es/islandora/object/ailla%3A125048</a></li>
-      </ul>
-      </div>    
-    <a class="no-underline" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaclé <span class="caret"/></h4></a>
-      <div class="collapse" id="collapse3">
-        <ul>
-        <li>Bucca, Salvador. (1966). Nivaclé, audio AILLA</li>
-        <li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
+    <div class="py-1 mb-0">
+      <p>Haga click en las flechas para ver las referencias completas para cada lengua.</p>
+      <a class="no-underline" data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Chorote <span class="caret"/></h4></a>
+        <div class="collapse" id="collapse1">
+          <ul>
+            <li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li>
+            <li>Gerzenstein, Ana. (1968) "Palabras en Chorote". Texas: Ailla. Recuperado de <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A125066" target="_blank">https://ailla.utexas.org/es/islandora/object/ailla%3A125066</a></li>
+            <li>Pacor, Paola. (2005). Trabajo de campo  lengua chorote.</li>
+          </ul>
       </div>
-    <a class="no-underline" data-toggle="collapse" href="#collapse4" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichí <span class="caret"/></h4></a>
-      <div class="collapse" id="collapse4">
-        <ul><li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969”. Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
-      </div>
+      <a class="no-underline" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Maká <span class="caret"/></h4></a>
+        <div class="collapse" id="collapse2">
+          <ul>
+          <li>Gerzenstein, Ana. (1985). Curso de idiomas en curso. Texas, AILLA. Recuperado de <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A125048" target="_blank">https://ailla.utexas.org/es/islandora/object/ailla%3A125048</a></li>
+        </ul>
+        </div>    
+      <a class="no-underline" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaclé <span class="caret"/></h4></a>
+        <div class="collapse" id="collapse3">
+          <ul>
+          <li>Bucca, Salvador. (1966). Nivaclé, audio AILLA</li>
+          <li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
+        </div>
+      <a class="no-underline" data-toggle="collapse" href="#collapse4" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichí <span class="caret"/></h4></a>
+        <div class="collapse" id="collapse4">
+          <ul><li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969”. Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
+        </div>
+    </div>
   </div>
 </div>
 
 <div class="py-1 mb-0 prose">
   <a class="no-underline" data-toggle="collapse" href="#texto" role="button" aria-expanded="false" aria-controls="collapseExample"><h1>Texto <span class="caret"/></h1></a>
   <div class="collapse" id="texto">
+        <div class="py-1 mb-3">
+      <figure>
+        <img src="{{site.baseurl}}/assets/plots/corpus_pags_by_lang_text.png" alt="plot corpus texto"/>
+        <figcaption style="font-size: 13px;">Cantidad de páginas de las fuentes textuales para cada lengua según fuente.</figcaption>
+      </figure>
+    </div>
+    <div class="py-1 mb-0">
+      <p>Haga click en las flechas para ver las referencias completas para cada lengua.</p>    
     <a class="no-underline" data-toggle="collapse" href="#collapse5" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Chorote <span class="caret"/></h4></a>
       <div class="collapse" id="collapse5">
         <ul>
@@ -72,4 +89,5 @@ Esta sección sintetiza las características básicas del corpus usado para el p
         <li>Wichi lhomtes. Estudio de la gramática y la interacción fonología-morfología-sintaxis-semántica. Munich: Lincom.</li></ul>
       </div>     
   </div>
+</div>
 </div>
