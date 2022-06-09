@@ -112,7 +112,6 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
 
 | Referencia            | Fuente                  
 |-----------------------|-------------------------------------------------
-| **Bucca, 1966**       | Nivaclé, audio AILLA |
 | **Bucca, 1969**       | Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, www.caicyt-conicet.gov.ar/dila/items/show/11402. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402. |
 | **Campbell y Grondona, 2007** | Campbell & Grondona. (2007). Internal reconstruction in Chulupí (Nivaklé). Diachronica, 24(1), 1-29. |
 | **Carol, 2014a**      | Carol, (2014). Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |

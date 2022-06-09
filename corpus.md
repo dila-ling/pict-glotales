@@ -35,7 +35,6 @@ Esta sección sintetiza las características básicas del corpus usado para el p
       <a class="no-underline" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaclé <span class="caret"/></h4></a>
         <div class="collapse" id="collapse3">
           <ul>
-          <li>Bucca, Salvador. (1966). Nivaclé, audio AILLA</li>
           <li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
         </div>
       <a class="no-underline" data-toggle="collapse" href="#collapse4" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichí <span class="caret"/></h4></a>
