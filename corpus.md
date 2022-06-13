@@ -4,7 +4,7 @@ title: Corpus
 permalink: /corpus/
 ---
 
-Esta sección sintetiza las características básicas del corpus usado para el proyecto. Haga click en las flechas para desplegar más información acerca de las fuentes usadas.
+Esta sección sintetiza las características básicas del corpus de datos secundarios usado para el proyecto. Haga click en las flechas para desplegar más información acerca de las fuentes usadas.
 
 
 <div class="py-1 mb-0 prose">
@@ -26,18 +26,18 @@ Esta sección sintetiza las características básicas del corpus usado para el p
             <li>Pacor, Paola. (2005). Trabajo de campo  lengua chorote.</li>
           </ul>
       </div>
-      <a class="no-underline" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Maká <span class="caret"/></h4></a>
+      <a class="no-underline" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Maka <span class="caret"/></h4></a>
         <div class="collapse" id="collapse2">
           <ul>
           <li>Gerzenstein, Ana. (1985). Curso de idiomas en curso. Texas, AILLA. Recuperado de <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A125048" target="_blank">https://ailla.utexas.org/es/islandora/object/ailla%3A125048</a></li>
         </ul>
         </div>    
-      <a class="no-underline" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaclé <span class="caret"/></h4></a>
+      <a class="no-underline" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaĉle <span class="caret"/></h4></a>
         <div class="collapse" id="collapse3">
           <ul>
           <li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
         </div>
-      <a class="no-underline" data-toggle="collapse" href="#collapse4" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichí <span class="caret"/></h4></a>
+      <a class="no-underline" data-toggle="collapse" href="#collapse4" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichi <span class="caret"/></h4></a>
         <div class="collapse" id="collapse4">
           <ul><li>Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969”. Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, <a href="https://www.caicyt-conicet.gov.ar/dila/items/show/11402" target="_blank">www.caicyt-conicet.gov.ar/dila/items/show/11402</a>. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402.</li></ul>
         </div>
@@ -66,13 +66,13 @@ Esta sección sintetiza las características básicas del corpus usado para el p
         <li>Gerzenstein, Ana. (1979) Lengua chorote. Tomo 2. Buenos Aires:Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires</li>
         <li>Gerzenstein, Ana (1983). Lengua Chorote. Variedad nº 2. Estudio descriptivo - Comparativo y vocabulario. Buenos Aires: Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires</li></ul>
     </div>
-    <a class="no-underline" data-toggle="collapse" href="#collapse6" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Maká <span class="caret"/></h4></a>
+    <a class="no-underline" data-toggle="collapse" href="#collapse6" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Maka <span class="caret"/></h4></a>
       <div class="collapse" id="collapse6">
         <ul><li>Gerzenstein, Ana. (1994). Lengua Maká:  estudio descriptivo. Buenos Aires:  Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires.</li>
         <li>Gerzenstein, Ana. (1999). Diccionario etnolinguístico maká-español (DELME). Buenos Aires:  Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires.</li>
         <li>Tacconi, Temis Lucía. (2015). "Formación de palabras en maká (mataguayo)". Tesis doctoral. Buenos Aires:   Facultad de Filosofía y Letras, Universidad de Buenos Aires.</li></ul>
       </div>    
-    <a class="no-underline" data-toggle="collapse" href="#collapse7" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaclé <span class="caret"/></h4></a>
+    <a class="no-underline" data-toggle="collapse" href="#collapse7" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Nivaĉle <span class="caret"/></h4></a>
       <div class="collapse" id="collapse7">
         <ul><li>Internal reconstruction in Chulupí (Nivaklé). Diachronica, 24(1), 1-29.</li>
         <li>Fabre, Alain. (2014). Léxico nivacle. Kangasala (ms.)</li>
@@ -80,7 +80,7 @@ Esta sección sintetiza las características básicas del corpus usado para el p
         <li>Fonología de la protolengua mataguaya. (Cuadernos de lingüística indígena, 9.) Buenos Aires: Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires</li>        
         <li>Nuevo Diccionario Nivaĉle-Castellano. Tercera edición mejorada a cargo de Félix Ramírez Flores et al. Asunción: CEADUC.</li></ul>
       </div>
-    <a class="no-underline" data-toggle="collapse" href="#collapse8" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichí <span class="caret"/></h4></a>
+    <a class="no-underline" data-toggle="collapse" href="#collapse8" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Wichi <span class="caret"/></h4></a>
       <div class="collapse" id="collapse8">
         <ul><li>Claesson, Kenneth (1994). A phonological outline of mataco-noctenes. International Journal of American Linguistics, 60(1), 1-38.</li>
         <li>Claesson, Kenneth. (2016) Notas sobre el vocabulario "weenhayek".</li>
