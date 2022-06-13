@@ -5,7 +5,7 @@ permalink: /corpus/
 ---
 
 Esta sección sintetiza las características básicas del corpus usado para el proyecto. Haga click en las flechas para desplegar más información acerca de las fuentes usadas.
-<!-- Agregar referencias bibliograficas y cuadritos de cantidad de palabras por fuente y por idioma -->
+
 
 <div class="py-1 mb-0 prose">
   <a class="no-underline" data-toggle="collapse" href="#audio" role="button" aria-expanded="false" aria-controls="collapseExample"><h1>Audio <span class="caret"/></h1></a>
