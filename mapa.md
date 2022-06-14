@@ -117,7 +117,7 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
 | **Carol, 2014a**      | Carol, J. (2014a). Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
 | **Carol, 2014b**      | Carol, J (2014b) Lengua chorote (Mataguayo). Estudio descriptivo. Munich: Lincom. |
 | **Claesson, 1994**    | Claesson, Kenneth (1994). A phonological outline of mataco-noctenes. International Journal of American Linguistics, 60(1), 1-38. |
-| **Claesson, 2008**    | Claesson, Kenneth. (2008) Notas sobre el vocabulario "weenhayek".  |
+| **Claesson, 2008**    | Claesson, Kenneth. (2008) Notas sobre el vocabulario "weenhayek". Cochabamba: SBB  |
 | **Drayson, 2009**     | Drayson, Nicholas. (2009). Niwak Samtis. Diccionario Iyojwa'ja'Lij- Kilay'Lij (Chorote- castellano). Hacia una nueva carta étnica del Gran Chaco VIII: 91-174. Las Lomitas: Centro de Hombre Antiguo Chaqueño (CHACO). |
 | **Fabre, 2014**       | Fabre, Alain. (2014). Léxico nivacle. Kangasala (ms.) |
 | **Gerzenstein, 1978** | Gerzenstein, Ana. (1978) Lengua chorote. Tomo 1. Buenos Aires:Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires |
