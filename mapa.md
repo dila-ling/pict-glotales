@@ -114,9 +114,9 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
 |-----------------------|-------------------------------------------------
 | **Bucca, 1969**       | Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, www.caicyt-conicet.gov.ar/dila/items/show/11402. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402. |
 | **Campbell y Grondona, 2007** | Campbell & Grondona. (2007). Internal reconstruction in Chulupí (Nivaklé). Diachronica, 24(1), 1-29. |
-| **Carol, 2014a**      | Carol, (2014). Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
-| **Carol, 2014a**      | Carol, Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
-| **Carol, 2014b**      | Lengua chorote (Mataguayo). Estudio descriptivo. Munich: Lincom. |
+| **Carol, 2014a**      | Carol, J. (2014a). Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
+| **Carol, 2014a**      | Carol,J. (2014a) Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
+| **Carol, 2014b**      | Carol, J (2014b) Lengua chorote (Mataguayo). Estudio descriptivo. Munich: Lincom. |
 | **Claesson, 1994**    | Claesson, Kenneth (1994). A phonological outline of mataco-noctenes. International Journal of American Linguistics, 60(1), 1-38. |
 | **Claesson, 2008**    | Claesson, Kenneth. (2008) Notas sobre el vocabulario "weenhayek".  |
 | **Drayson, 2009**     | Drayson, Nicholas. (2009). Niwak Samtis. Diccionario Iyojwa'ja'Lij- Kilay'Lij (Chorote- castellano). Hacia una nueva carta étnica del Gran Chaco VIII: 91-174. Las Lomitas: Centro de Hombre Antiguo Chaqueño (CHACO). |
