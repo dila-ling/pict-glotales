@@ -30,7 +30,7 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
   }).addTo(map);
 
   var marker = L.marker([-21.26, -63.45807]).addTo(map);
-  marker.bindPopup("<h6>Villamontes</h6><br><b>Wichí</b>: Claesson, 2008");
+  marker.bindPopup("<h6>Villamontes</h6><br><b>Wichí</b>: Claesson, 1994, 2008");
   var marker = L.marker([-23.8988, -61.8546]).addTo(map);
   marker.bindPopup("<h6>Ing. Juárez</h6><br><b>Wichí</b>: Nercesian, 2014");
   var marker = L.marker([-24.2539, -61.2423]).addTo(map);
@@ -101,8 +101,6 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
   marker.bindPopup("<h6>Santa Rosa y Misión nuevas tribus</h6><br><b>Chorote</b>: Gerzenstein, 1983");
   var marker = L.marker([-22.51856788662934,-63.79682502113404]).addTo(map);
   marker.bindPopup("<h6>Chorote 1</h6><br><b>Chorote</b>: Pacor, 2005");
-  var marker = L.marker([-23.001267361979455, -56.099685619864026]).addTo(map);
-  marker.bindPopup("<h6>Villamontes</h6><br><b>Wichí</b>: Claesson, 1994");
   var marker = L.marker([-23.26014811675107, -63.74069536741488]).addTo(map);
   marker.bindPopup("<h6>Misión chaqueña, El algarrobal</h6><br><b>Chorote</b>: Gerzenstein,1968");
 </script>
@@ -114,10 +112,11 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
 |-----------------------|-------------------------------------------------
 | **Bucca, 1969**       | Bucca, Salvador. “Elicitaciones en lenguas chorote, wichí, nivaclé y galés, 1969.”Repositorio Digital Archivo DILA. Laboratorio de Documentación e Investigación en Lingüística y Antropología (DILA), Área de Investigación, CAICYT - CONICET, 26 Mar. 2019, www.caicyt-conicet.gov.ar/dila/items/show/11402. Accessed 30 May 2022. URL: http://www.caicyt-conicet.gov.ar/dila/items/show/11402. |
 | **Campbell y Grondona, 2007** | Campbell & Grondona. (2007). Internal reconstruction in Chulupí (Nivaklé). Diachronica, 24(1), 1-29. |
-| **Carol, 2014a**      | Carol, J. (2014a). Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
-| **Carol, 2014b**      | Carol, J (2014b) Lengua chorote (Mataguayo). Estudio descriptivo. Munich: Lincom. |
+| **Carol, 2014a**      | Carol, (2014). Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
+| **Carol, 2014a**      | Carol, Esbozo fonológico del chorote (mataguayo). LIAMES, 14, 73-103 |
+| **Carol, 2014b**      | Lengua chorote (Mataguayo). Estudio descriptivo. Munich: Lincom. |
 | **Claesson, 1994**    | Claesson, Kenneth (1994). A phonological outline of mataco-noctenes. International Journal of American Linguistics, 60(1), 1-38. |
-| **Claesson, 2008**    | Claesson, Kenneth. (2008) Notas sobre el vocabulario "weenhayek". Cochabamba: SBB  |
+| **Claesson, 2008**    | Claesson, Kenneth. (2008) Notas sobre el vocabulario "weenhayek".  |
 | **Drayson, 2009**     | Drayson, Nicholas. (2009). Niwak Samtis. Diccionario Iyojwa'ja'Lij- Kilay'Lij (Chorote- castellano). Hacia una nueva carta étnica del Gran Chaco VIII: 91-174. Las Lomitas: Centro de Hombre Antiguo Chaqueño (CHACO). |
 | **Fabre, 2014**       | Fabre, Alain. (2014). Léxico nivacle. Kangasala (ms.) |
 | **Gerzenstein, 1978** | Gerzenstein, Ana. (1978) Lengua chorote. Tomo 1. Buenos Aires:Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires |
