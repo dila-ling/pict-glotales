@@ -43,7 +43,7 @@ permalink: /resultados/
  <h3>Comparación de fuentes de audio</h3>
   <div class="py-2" id="audio">
     <p>Vocabulario comparado de lenguas mataguayas proveniente de <a href="{{site.baseurl}}/transcripciones/">transcripciones</a> de 9h de elicitaciones de trabajo de campo.</p>
-    <p>Deslice el cursor sobre las palabras para ver la fuente.</p>
+    <p>Deslice el cursor sobre las palabras para ver la fuente y haga click sobre 🔉 para reproducir el audio.</p>
     <table id="table_02" class="display table py-2 mb-4">
       <thead>
         <tr>
@@ -58,10 +58,10 @@ permalink: /resultados/
         {% for row in site.data.mataguayas-comparadas-audio %}
           <tr>
             <td>{{ row.espanol }}</td>
-            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_wichi}}">{{ row.wichi }}</button></td>
-            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_chorote}}">{{ row.chorote }}</button></td>
-            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_nivacle}}">{{ row.nivacle }}</button></td>
-            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_maka}}">{{ row.maka }}</button></td>
+            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_wichi}}">{{ row.wichi }}</button>{% if row.audio_wichi != nil %} <span class="pointer" onclick="playAudio('{{ site.baseurl }}/assets/audio/{{row.audio_wichi}}.wav')" type="button">🔉</span>{% endif %}</td>
+            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_chorote}}">{{ row.chorote }}</button>{% if row.audio_chorote != nil %} <span class="pointer" onclick="playAudio('{{ site.baseurl }}/assets/audio/{{row.audio_chorote}}.wav')" type="button">🔉</span>{% endif %}</td>
+            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_nivacle}}">{{ row.nivacle }}</button>{% if row.audio_nivacle != nil %} <span class="pointer" onclick="playAudio('{{ site.baseurl }}/assets/audio/{{row.audio_nivacle}}.wav')" type="button">🔉</span>{% endif %}</td>
+            <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_maka}}">{{ row.maka }}</button>{% if row.audio_maka != nil %} <span class="pointer" onclick="playAudio('{{ site.baseurl }}/assets/audio/{{row.audio_maka}}.wav')" type="button">🔉</span>{% endif %}</td>
           </tr> 
         {% endfor %}
       </tbody>
@@ -74,4 +74,10 @@ $(document).ready( function () {
     $('#table_01').DataTable();
     $('#table_02').DataTable();
 } );
+</script>
+
+<script type="text/javascript">
+function playAudio(url) { 
+  new Audio(url).play(); 
+}
 </script>

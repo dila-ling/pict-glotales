@@ -4,29 +4,6 @@ title: Resultados interno
 permalink: /resultados-interno/
 ---
 
-<!-- Agregar cuadro de mataguayas comparadas actualizado por AG-->
-
-<audio id="myAudio">
-  <source src="{{ site.baseurl }}/assets/audio/wi_olhaase.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
-<script>
-var x = document.getElementById("myAudio"); 
-function playAudio() { 
-  x.play(); 
-} 
-</script>
-
-
-<p><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="Bucca, 1969">ɬawoʔ</button>
-<button id="wi_lhaawo" data-src="{{ site.baseurl }}/assets/audio/wi_lhaawo.wav" onclick="playAudio()" type="button">🔉</button></p>
-
-<p><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="Bucca, 1969">ɬokʲe</button><button id="ch_xlokje" data-src="{{ site.baseurl }}/assets/audio/ch_xlokje.wav" onclick="playAudio()" type="button">🔉</button></p>
-
-
-
-
 # Generales
 
 <br/>
