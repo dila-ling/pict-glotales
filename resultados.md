@@ -7,12 +7,11 @@ permalink: /resultados/
 
 # Mataguayas comparadas
 
-<div class="py-1 mb-0 ml-3 prose">
-  <a class="no-underline" data-toggle="collapse" href="#texto" role="button" aria-expanded="false" aria-controls="collapseExample">
-    <h3>Comparación de fuentes textuales <span class="caret"/></h3></a>
-  <div class="collapse py-2" id="texto">
-    <p>Cuadro con vocabulario comparado de lenguas mataguayas. Las transcripciones originales registradas en la bibliografía fueron adaptadas al Alfabeto Fonético Internacional. No se modificaron las vocales dobles ya que pueden implicar distintos símbolos fonéticos.</p>
-    <p>Deslice el cursor sobre las palabras para ver la fuente textual.</p>
+<div class="py-1 mb-0 prose">
+  <h3>Comparación de fuentes textuales</h3>
+  <div class="py-2" id="texto">
+    <p>Vocabulario comparado de lenguas mataguayas. Las transcripciones originales registradas en la bibliografía fueron adaptadas al Alfabeto Fonético Internacional. No se modificaron las vocales dobles ya que pueden implicar distintos símbolos fonéticos.</p>
+    <p>Deslice el cursor sobre las palabras para ver la fuente textual. La lista de referencias bibliográficas completas puede consultarse debajo de la tabla.</p>
     <table id="table_01" class="display table py-2 mb-4">
       <thead>  
         <tr>
@@ -35,12 +34,16 @@ permalink: /resultados/
       {% endfor %}
     </tbody>
     </table>
+    <a class="no-underline" data-toggle="collapse" href="#bib" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Ver referencias <span class="caret"/></h4></a>
+    <div class="collapse py-2" id="bib">
+      {% include referencias_biblio.html %}
+    </div>
   </div>
 
-  <a class="no-underline" data-toggle="collapse" href="#audio" role="button" aria-expanded="false" aria-controls="collapseExample"><h3>Comparación de fuentes de audio <span class="caret"/></h3></a>
-  <div class="collapse py-2" id="audio">
-    <p>Cuadro con vocabulario comparado de lenguas mataguayas proveniente de <a href="{{site.baseurl}}/transcripciones/">transcripciones</a> de 9h de elicitaciones de trabajo de campo.</p>
-    <p>Deslice el cursor sobre las palabras para ver la fuente textual.</p>
+ <h3>Comparación de fuentes de audio</h3>
+  <div class="py-2" id="audio">
+    <p>Vocabulario comparado de lenguas mataguayas proveniente de <a href="{{site.baseurl}}/transcripciones/">transcripciones</a> de 9h de elicitaciones de trabajo de campo.</p>
+    <p>Deslice el cursor sobre las palabras para ver la fuente.</p>
     <table id="table_02" class="display table py-2 mb-4">
       <thead>
         <tr>

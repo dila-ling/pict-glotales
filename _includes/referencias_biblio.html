@@ -1,0 +1,16 @@
+<table class="table py-2 mb-4" style="font-size: small;">
+  <thead>  
+    <tr>
+      <th>Referencia</th>
+      <th>Fuente</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in site.data.ref_biblio %}
+      <tr>
+        <td class="bold">{{ row.Cita }}</td>
+        <td>{{ row.Referencia }}</td>
+      </tr> 
+    {% endfor %}
+  </tbody>
+</table>
