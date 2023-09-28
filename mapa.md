@@ -108,6 +108,7 @@ var map = L.map('map').setView([-24.5811123, -60.4287612], 6);
 
 <div class="py-4">
 
+  {% assign handle = "all" %}
   {% include referencias_biblio.html %}
 
 </div>

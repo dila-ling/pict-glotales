@@ -7,10 +7,27 @@
   </thead>
   <tbody>
     {% for row in site.data.ref_biblio %}
-      <tr>
-        <td class="bold">{{ row.Cita }}</td>
-        <td>{{ row.Referencia }}</td>
-      </tr> 
+      {% case handle %}
+        {% when "all" %}
+          <tr>
+            <td class="bold">{{ row.Cita }}</td>
+            <td>{{ row.Referencia }}</td>
+          </tr>
+        {% when "text" %}
+          {% if row.Tipo == "texto" %}
+            <tr>
+              <td class="bold">{{ row.Cita }}</td>
+              <td>{{ row.Referencia }}</td>
+            </tr> 
+          {% endif %}
+        {% when "audio" %}
+          {% if row.Tipo == "audio" %}
+            <tr>
+              <td class="bold">{{ row.Cita }}</td>
+              <td>{{ row.Referencia }}</td>
+            </tr> 
+          {% endif %}
+      {% endcase %}
     {% endfor %}
   </tbody>
 </table>

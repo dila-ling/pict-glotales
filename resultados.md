@@ -34,8 +34,9 @@ permalink: /resultados/
       {% endfor %}
     </tbody>
     </table>
-    <a class="no-underline" data-toggle="collapse" href="#bib" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Ver referencias <span class="caret"/></h4></a>
-    <div class="collapse py-2" id="bib">
+    <a class="no-underline" data-toggle="collapse" href="#bib1" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Ver referencias <span class="caret"/></h4></a>
+    <div class="collapse py-2" id="bib1">
+      {% assign handle = "text" %}
       {% include referencias_biblio.html %}
     </div>
   </div>
@@ -43,7 +44,7 @@ permalink: /resultados/
  <h3>Comparación de fuentes de audio</h3>
   <div class="py-2" id="audio">
     <p>Vocabulario comparado de lenguas mataguayas proveniente de <a href="{{site.baseurl}}/transcripciones/">transcripciones</a> de 9h de elicitaciones de trabajo de campo.</p>
-    <p>Deslice el cursor sobre las palabras para ver la fuente y haga click sobre 🔉 para reproducir el audio.</p>
+    <p>Deslice el cursor sobre las palabras para ver la fuente y haga click sobre 🔉 para reproducir el audio. La lista de fuentes de registros de audio puede consultarse debajo de la tabla.</p>
     <table id="table_02" class="display table py-2 mb-4">
       <thead>
         <tr>
@@ -66,6 +67,11 @@ permalink: /resultados/
         {% endfor %}
       </tbody>
     </table>
+    <a class="no-underline" data-toggle="collapse" href="#bib2" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Ver referencias <span class="caret"/></h4></a>
+    <div class="collapse py-2" id="bib2">
+      {% assign handle = "audio" %}
+      {% include referencias_biblio.html %}
+    </div>
   </div>
 </div>
 
