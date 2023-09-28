@@ -1,9 +1,7 @@
 espanol,wichi,fuente_wichi,chorote,fuente_chorote,nivacle,fuente_nivacle,maka,fuente_maka
-abuela,-tela,"Nercesian, 2014:352","intix,intʼij,-kiɁjla","Pacor, 2005",-kteɁ,"Gutiérrez, 2015:59","ewketiɁ, ketiɁ","Gerzenstein, 1999:440"
-abuela,,,eji,"Gerzenstein, 1983:181",jaja,,,
-abuela,,,-ntʼeh,"Carol, 2014b:140",,,,
-abuelo,-tʃoti,"Nercesian, 2014:194",-kiɁjɁil,"Pacor, 2005",-kteɁtʃ,"Gutiérrez, 2015:59","ewket, ket","Gerzenstein, 1999:440"
-abuelo,,,-nt’ek,"Gerzenstein, 1979:55; Carol, 2014b:34",,,,
+abuela,-tela,"Nercesian, 2014:352",eji,"Gerzenstein, 1983:181",-kteɁ,"Gutiérrez, 2015:59","ewketiɁ, ketiɁ","Gerzenstein, 1999:440"
+abuela,,,-ntʼeh,"Carol, 2014b:140",jaja,,,
+abuelo,-tʃoti,"Nercesian, 2014:194",-nt’ek,"Gerzenstein, 1979:55; Carol, 2014b:34",-kteɁtʃ,"Gutiérrez, 2015:59","ewket, ket","Gerzenstein, 1999:440"
 agua,Ɂinot,"Nercesian, 2014:150","anat, ihnjat","Najlis, 1984:44",ɁinɑɁt,"Gutiérrez, 2015:38",iweli,"Gerzenstein, 1999:407"
 agua,,,iʼnjat,"Carol, 2014b:194",,,,
 agua,,,anat,"Gerzenstein, 1983:181",,,,
@@ -75,8 +73,6 @@ hermana,,,taʔa,"Gerzenstein, 1983:59",,,,
 hermana mayor,-tʃita,"Nercesian, 2014:194",-kitjaʔ,"Gerzenstein, 1979:69",-tʃitaʔ,"Gutiérrez, 2015:270",-kutiʔ,"Gerzenstein, 1999:471"
 hermana mayor,,,"kjaaxuʔ (V2A), taax, taʔa (V2P)","Gerzenstein, 1983:201",,,,
 hermana menor,-tʃinho,"Nercesian, 2014:194","kixnjeʔ (V2A), jixnikiʔ, jinkiʔ(V2P)","Gerzenstein, 1983:201","-sunxa, -tʃinxɑ","Gutiérrez, 2015:64",kʼinχaʔ,"Gerzenstein, 1999:471"
-hermanas,,,"inkitjawot, tawot","Pacor, 2005",,,,
-hermano,,,"isilia,isiljaʔ","Pacor, 2005",,,,
 hermano mayor,-tʃila,"Nercesian, 2014:467",inkiljaʔ,"Gerzenstein, 1979:70",-tʃik͡laʔ,"Seelwische, 2016",-mats,"Gerzenstein, 1999:471"
 hermano mayor,,,kiljeʔ,"Gerzenstein, 1983:201",,,,
 hermano menor,-tʃinix,"Nercesian, 2014:194",-kini,"Gerzenstein, 1979:70","-onax, -tʃiniʃ","Seelwische, 2016",-kʼinix,"Gerzenstein, 1999:471"
@@ -120,7 +116,7 @@ negro,tʃalaχ,"Nercesian, 2014:93","tula, tjula","Gerzenstein, 1983:210",jakut,
 nido,ɬup,"Claesson, 2008:10","ɬup, ɬop","Gerzenstein, 1983:210",ɬuʔp,"Gutiérrez, 2015:68",ɬup,"Gerzenstein, 1999:497"
 nieta,tʃejo,"Nercesian, 2014:194","tsok, sok","Gerzenstein, 1983:210",tsɑxkeʔe,"Seelwische, 2016",-ukiʔ,"Gerzenstein, 1999:497"
 nieto,tʃejos,"Nercesian, 2014:194","kijas, kijes","Gerzenstein, 1983:210",nɑʔtsitʃʼa,"Seelwische, 2016",-uk,"Gerzenstein, 1999:497"
-niña,,,"kjaʼliki,kjaʔleʔkiʔ,kjaʔeki","Pacor, 2005",nekxɑke,"Gutiérrez, 2015:38",omeɬaskiʔ,"Gerzenstein, 1999:498"
+niña,,,,,nekxɑke,"Gutiérrez, 2015:38",omeɬaskiʔ,"Gerzenstein, 1999:498"
 niño,,,kjaʔleʔ,"Gerzenstein, 1979:76",nekxɑʔk,"Gutiérrez, 2015:38",omeɬas,"Gerzenstein, 1999:498"
 nube,puule,"Claesson, 2008:35",poliʔ,"Gerzenstein, 1979:76",wɑseʔ,"Seelwische, 2016",wasiʔ,"Gerzenstein, 1999:498"
 nuera,-titʃe,"Nercesian, 2014:194",infʷelis,"Gerzenstein, 1979:76",-tɑmk͡lɑji,"Seelwische, 2016",-felits,"Gerzenstein, 1999:435"
@@ -188,5 +184,5 @@ viento,ʔihwokʷ,"Nercesian, 2014:51","ɬaxwu, laxwu","Gerzenstein, 1983:226",ɬ
 vos,am,"Nercesian, 2014:335","aʔam, am ","Gerzenstein, 1983:22",awaʔtʃa,"Seelwische, 2016",akhaɁ,"Gerzenstein, 1999:540"
 yacaré,aɬetax,"Nercesian, 2014:197",aɬutax,"Gerzenstein, 1983:227",aɬutax,"Seelwische, 2016",najaɬenex,"Gerzenstein, 1999:551"
 yarará,,,"aʔpax (V2A), aʔpaʔ (V2P)","Gerzenstein, 1983:227",apʼax,"Gutiérrez, 2015:227",natsixilaχ,"Gerzenstein, 1999:547"
-yo,ʼnɬam,"Nercesian, 2014:244",jaʔam,"Pacor, 2005",jiwaʔtʃa,"Seelwische, 2016",,
-zorro,mawu,"Nercesian, 2014:47",jos,"Pacor, 2005",joʔnis,"Gutiérrez, 2015:170","exenel, tsʼijaq","Gerzenstein, 1999:553"
+yo,ʼnɬam,"Nercesian, 2014:244",,,jiwaʔtʃa,"Seelwische, 2016",,
+zorro,mawu,"Nercesian, 2014:47",,,joʔnis,"Gutiérrez, 2015:170","exenel, tsʼijaq","Gerzenstein, 1999:553"
