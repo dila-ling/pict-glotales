@@ -2,6 +2,8 @@
 layout: page
 title: Corpus
 permalink: /corpus/
+featured-img: Camino_UjeLhavos_PYG.jpg
+img-source: Camino a Uj'e Lhavos, Analía Gutiérrez
 ---
 
 Esta sección sintetiza las características básicas del corpus de datos secundarios usado para el proyecto. Haga click en las flechas para desplegar más información acerca de las fuentes usadas.

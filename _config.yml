@@ -5,10 +5,12 @@ url: "https://dila-ling.github.io"
 github_repo: pict-glotales
 github_username: dila-ling
 
+instagram_username: laboratoriodila.ok
 social_link: twitter
-social_username: DilaConicet
+twitter_username: DilaConicet
 
-theme_color: white
+
+theme_color: pict
 
 markdown: kramdown
 

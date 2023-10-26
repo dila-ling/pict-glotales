@@ -2,6 +2,8 @@
 layout: page
 title: Mapa de fuentes
 permalink: /mapa/
+featured-img: Camino_UjeLhavos_PYG.jpg
+img-source: Camino a Uj'e Lhavos, Analía Gutiérrez
 ---
 
 

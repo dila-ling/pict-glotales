@@ -10,7 +10,10 @@
   }
 }
 
-.text-right { text-align: right; }
+.text-right { 
+  text-align: right;
+  font-size: 10px;
+  }
 
 .no-underline {
   text-decoration: none !important;
@@ -43,8 +46,8 @@
 .header-border { border-color: $color-foreground; }
 .header-title { color: $color-title; }
 .header-text { color: $color-foreground; }
-.header-social { fill: $color-foreground; }
-.header-social-accent { fill: $color-dot-accent; }
+.header-social { fill: $color-dot-accent; }
+.header-social-accent { fill: $color-dot-accent;}
 .header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
 
