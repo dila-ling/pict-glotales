@@ -15,7 +15,7 @@ Debajo del mapa, se encuentra la lista de referencias bibliográficas completas 
 
 <br>
 
-{% include mapa-provisorio.html %}
+{% include mapa-fuentes.html %}
 
 
 <div class="py-4">

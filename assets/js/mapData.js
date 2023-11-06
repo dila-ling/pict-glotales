@@ -1,10 +1,4 @@
-var langColor = {'maká': '#FFD326',
- 'chorote': '#2A81CB',
- 'nivacle': '#CB2B3E',
- 'wichí': '#2AAD27',
- 'chorote, nivacle, wichí': '#7B7B7B',
- 'chorote, nivacle': '#9C2BCB'}
-
+var langColor = {'maká': '#FFD326', 'chorote': '#2A81CB', 'nivacle': '#CB2B3E', 'wichí': '#2AAD27', 'chorote, nivacle, wichí': '#7B7B7B', 'chorote, wichí': '#9C2BCB'}
 var fuentesLoc = [{'Comunidad': 'Asunción', 'Latitud': -25.2966745, 'Longitud': -57.6806628, 'Lengua': 'maká', 'Soporte': 'audio', 'Cita': 'Gerzenstein, 1985; Gerzenstein, 1984', 'Color': '#FFD326'},
 {'Comunidad': 'Colonia 22', 'Latitud': -22.31133694, 'Longitud': -60.23006035, 'Lengua': 'chorote', 'Soporte': 'texto', 'Cita': 'Gerzenstein, 1983', 'Color': '#2A81CB'},
 {'Comunidad': 'Doctor Pedro P. Peña', 'Latitud': -22.44840917, 'Longitud': -62.34991587, 'Lengua': 'nivacle', 'Soporte': 'texto', 'Cita': 'Seelwische, 2016', 'Color': '#CB2B3E'},
@@ -21,9 +15,9 @@ var fuentesLoc = [{'Comunidad': 'Asunción', 'Latitud': -25.2966745, 'Longitud':
 {'Comunidad': 'Las Lomitas', 'Latitud': -24.7075, 'Longitud': -60.5943, 'Lengua': 'wichí', 'Soporte': 'texto', 'Cita': 'Nercesian, 2014', 'Color': '#2AAD27'},
 {'Comunidad': 'MIsión Nuevas tribus', 'Latitud': -23.00126736, 'Longitud': -56.09968562, 'Lengua': 'chorote', 'Soporte': 'texto', 'Cita': 'Gerzenstein, 1983', 'Color': '#2A81CB'},
 {'Comunidad': 'Misión Algarrobal', 'Latitud': -24.0822521, 'Longitud': -62.3163829, 'Lengua': 'wichí', 'Soporte': 'texto', 'Cita': 'Najlis, 1984', 'Color': '#2AAD27'},
-{'Comunidad': 'Misión Chaqueña', 'Latitud': -23.26014812, 'Longitud': -63.74069537, 'Lengua': 'chorote', 'Soporte': 'texto, audio', 'Cita': 'Najlis, 1984; Gerzenstein, 1978 ; Gerzenstein, 1979; Gerzenstein, 1968', 'Color': '#2A81CB'},
-{'Comunidad': 'Misión Chorote 1', 'Latitud': -22.51856789, 'Longitud': -63.79682502, 'Lengua': 'chorote', 'Soporte': 'texto, audio', 'Cita': 'Pacor, 2005; Carol, 2014a; Carol, 2014b', 'Color': '#2A81CB'},
-{'Comunidad': 'Misión La Paz', 'Latitud': -22.36846452, 'Longitud': -62.56198333, 'Lengua': 'chorote, nivacle, wichí', 'Soporte': 'texto, audio', 'Cita': 'Gerzenstein, 1978 ; Gerzenstein, 1979; Bucca, 1969; Gerzenstein, 1968; Campbell & Grondona, 2007; Najlis, 1984; Carol, 2014a; Carol, 2014b; Drayson, 2009; Gerzenstein, 1983', 'Color': '#7B7B7B'},
+{'Comunidad': 'Misión Chaqueña', 'Latitud': -23.26014812, 'Longitud': -63.74069537, 'Lengua': 'chorote', 'Soporte': 'audio, texto', 'Cita': 'Najlis, 1984; Gerzenstein, 1978 ; Gerzenstein, 1979; Gerzenstein, 1968', 'Color': '#2A81CB'},
+{'Comunidad': 'Misión Chorote 1', 'Latitud': -22.51856789, 'Longitud': -63.79682502, 'Lengua': 'chorote', 'Soporte': 'audio, texto', 'Cita': 'Pacor, 2005; Carol, 2014a; Carol, 2014b', 'Color': '#2A81CB'},
+{'Comunidad': 'Misión La Paz', 'Latitud': -22.36846452, 'Longitud': -62.56198333, 'Lengua': 'chorote, nivacle, wichí', 'Soporte': 'audio, texto', 'Cita': 'Gerzenstein, 1978 ; Gerzenstein, 1979; Bucca, 1969; Gerzenstein, 1968; Campbell & Grondona, 2007; Najlis, 1984; Carol, 2014a; Carol, 2014b; Drayson, 2009; Gerzenstein, 1983', 'Color': '#7B7B7B'},
 {'Comunidad': 'Misión Nueva Esperanza', 'Latitud': -22.27656, 'Longitud': -62.71291, 'Lengua': 'chorote', 'Soporte': 'audio', 'Cita': 'Pacor, 2005', 'Color': '#2A81CB'},
 {'Comunidad': 'Misión Pozo Yacaré', 'Latitud': -24.0901755, 'Longitud': -62.3430565, 'Lengua': 'chorote, wichí', 'Soporte': 'texto', 'Cita': 'Najlis, 1984; Najlis, 1984; Gerzenstein, 1978 ; Gerzenstein, 1979', 'Color': '#9C2BCB'},
 {'Comunidad': 'Misión San Leonardo', 'Latitud': -23.77871248, 'Longitud': -60.78093583, 'Lengua': 'chorote, nivacle, wichí', 'Soporte': 'texto', 'Cita': 'Seelwische, 2016; Najlis, 1984', 'Color': '#7B7B7B'},
@@ -36,6 +30,6 @@ var fuentesLoc = [{'Comunidad': 'Asunción', 'Latitud': -25.2966745, 'Longitud':
 {'Comunidad': 'Santa Teresita', 'Latitud': -22.04025084, 'Longitud': -60.58465094, 'Lengua': 'nivacle', 'Soporte': 'texto', 'Cita': 'Seelwische, 2016', 'Color': '#CB2B3E'},
 {'Comunidad': 'Sauzalito ', 'Latitud': -24.4236, 'Longitud': -61.6842, 'Lengua': 'wichí', 'Soporte': 'texto', 'Cita': 'Nercesian, 2014', 'Color': '#2AAD27'},
 {'Comunidad': 'Tartagal', 'Latitud': -22.51856789, 'Longitud': -63.79682502, 'Lengua': 'chorote', 'Soporte': 'texto', 'Cita': 'Drayson, 2009; Gerzenstein, 1983', 'Color': '#2A81CB'},
-{'Comunidad': 'Uj’e Lhavos', 'Latitud': -22.36207153, 'Longitud': -60.05006973, 'Lengua': 'nivacle', 'Soporte': 'texto, audio', 'Cita': 'Gutiérrez, 2015; Seelwische, 2016; Gutiérrez, 2010; Gutiérrez, 2012; Gutiérrez, 2011; Gutiérrez, 2017; Gutiérrez, 2019', 'Color': '#CB2B3E'},
+{'Comunidad': 'Uj’e Lhavos', 'Latitud': -22.36207153, 'Longitud': -60.05006973, 'Lengua': 'nivacle', 'Soporte': 'audio, texto', 'Cita': 'Gutiérrez, 2015; Seelwische, 2016; Gutiérrez, 2010; Gutiérrez, 2012; Gutiérrez, 2011; Gutiérrez, 2017; Gutiérrez, 2019', 'Color': '#CB2B3E'},
 {'Comunidad': 'Villamontes', 'Latitud': -21.26, 'Longitud': -63.45807, 'Lengua': 'wichí', 'Soporte': 'texto', 'Cita': 'Claesson, 2016; Claesson, 1994', 'Color': '#2AAD27'},
 ]
