@@ -45,7 +45,7 @@ img-source: Árboles chaqueños, Analía Gutiérrez
 
  <h3>Comparación de fuentes de audio</h3>
   <div class="py-2" id="audio">
-    <p>Vocabulario comparado de lenguas mataguayas proveniente de <a href="{{site.baseurl}}/transcripciones/">transcripciones</a> de 9h de elicitaciones de trabajo de campo.</p>
+    <p>Vocabulario comparado de lenguas mataguayas proveniente de transcripciones de 9h de elicitaciones de trabajo de campo.</p>
     <p>Deslice el cursor sobre las palabras para ver la fuente y haga click sobre 🔉 para reproducir el audio. La lista de fuentes de registros de audio puede consultarse debajo de la tabla.</p>
     <table id="table_02" class="display table py-2 mb-4">
       <thead>
