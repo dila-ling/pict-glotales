@@ -14,14 +14,14 @@
             <td>{{ row.Referencia }}</td>
           </tr>
         {% when "text" %}
-          {% if row.Tipo == "texto" %}
+          {% if row.Soporte == "texto" %}
             <tr>
               <td class="bold">{{ row.Cita }}</td>
               <td>{{ row.Referencia }}</td>
             </tr> 
           {% endif %}
         {% when "audio" %}
-          {% if row.Tipo == "audio" %}
+          {% if row.Soporte == "audio" %}
             <tr>
               <td class="bold">{{ row.Cita }}</td>
               <td>{{ row.Referencia }}</td>
