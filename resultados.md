@@ -25,7 +25,7 @@ img-source: Árboles chaqueños, Analía Gutiérrez
         </tr>
       </thead>
       <tbody>
-      {% for row in site.data.mataguayas-comparadas-AG %}
+      {% for row in site.data.mataguayas-comparadas-textos %}
       <tr>
         <td>{{ row.espanol }}</td>
         <td><button class="balloon" data-balloon-pos="up" data-balloon-length="small" data-balloon="{{row.fuente_wichi}}">{{ row.wichi }}</button></td>
