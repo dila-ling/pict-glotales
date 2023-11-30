@@ -36,6 +36,7 @@ img-source: Árboles chaqueños, Analía Gutiérrez
       {% endfor %}
     </tbody>
     </table>
+    <a class="right text-accent no-underline py-2" href="{{site.baseurl}}/assets/downloads/data-metadata-textos-mataguayas.zip">{% include download-icon.html %} Descargar</a>
     <a class="no-underline" data-toggle="collapse" href="#bib1" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Ver referencias <span class="caret"/></h4></a>
     <div class="collapse py-2" id="bib1">
       {% assign handle = "text" %}
@@ -69,6 +70,7 @@ img-source: Árboles chaqueños, Analía Gutiérrez
         {% endfor %}
       </tbody>
     </table>
+    <a class="right text-accent no-underline py-2" href="{{site.baseurl}}/assets/downloads/data-metadata-audios-mataguayas.zip">{% include download-icon.html %} Descargar</a>    
     <a class="no-underline" data-toggle="collapse" href="#bib2" role="button" aria-expanded="false" aria-controls="collapseExample"><h4>Ver referencias <span class="caret"/></h4></a>
     <div class="collapse py-2" id="bib2">
       {% assign handle = "audio" %}
